@@ -2,6 +2,7 @@
 
 ## Set Up Project
 
+1. run `git clone https://github.com/Hanneesss/schulprojekt.git .`
 1. run `npm install`
 2. start tailwind `npx tailwindcss -i ./src/tailwindInput.css -o ./src/tailwindOutput.css --watch`
 
